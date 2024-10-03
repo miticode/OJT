@@ -1,0 +1,323 @@
+{
+  "cors": true,
+  "users": [
+    {
+      "id": 1,
+      "username": "student",
+      "password": "password",
+      "role": "student",
+      "enrolledCourses": [
+        {
+          "id": 1,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+          "keyword": "John Doe",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-1.jpg",
+          "rate": "4.5",
+          "price": "$10",
+          "instructor": "John Doe",
+          "language": "Javascript",
+          "hours": "25 hours",
+          "views": "109k views",
+          "time": "15 days ago",
+          "title": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+        },
+        {
+          "id": 2,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+          "keyword": "John Doe",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-2.jpg",
+          "rate": "4.5",
+          "price": "$10",
+          "instructor": "John Doe",
+          "language": "Javascript",
+          "hours": "25 hours",
+          "views": "109k views",
+          "time": "15 days ago",
+          "title": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+        },
+        {
+          "id": 3,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+          "keyword": "John Doe",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-3.jpg",
+          "rate": "4.5",
+          "price": "$10",
+          "instructor": "John Doe",
+          "language": "Javascript",
+          "hours": "25 hours",
+          "views": "109k views",
+          "time": "15 days ago",
+          "title": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+        },
+        {
+          "id": 4,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+          "keyword": "John Doe",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-4.jpg",
+          "rate": "4.6",
+          "price": "$12",
+          "instructor": "Jane Doe",
+          "language": "Python",
+          "hours": "30 hours",
+          "views": "150k views",
+          "time": "10 days ago",
+          "title": "Advanced Python Programming"
+        },
+        {
+          "id": 5,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+          "keyword": "John Doe",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-5.jpg",
+          "rate": "4.7",
+          "price": "$15",
+          "instructor": "Alex Smith",
+          "language": "Java",
+          "hours": "35 hours",
+          "views": "200k views",
+          "time": "5 days ago",
+          "title": "Java for Beginners"
+        },
+        {
+          "id": 6,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+          "keyword": "John Doe",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-6.jpg",
+          "rate": "4.8",
+          "price": "$20",
+          "instructor": "Emily Johnson",
+          "language": "C++",
+          "hours": "40 hours",
+          "views": "250k views",
+          "time": "3 days ago",
+          "title": "Mastering C++ Programming"
+        },
+        {
+          "id": 7,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+          "keyword": "John Doe",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-7.jpg",
+          "rate": "4.9",
+          "price": "$25",
+          "instructor": "Michael Brown",
+          "language": "Ruby",
+          "hours": "45 hours",
+          "views": "300k views",
+          "time": "1 day ago",
+          "title": "Complete Ruby on Rails Developer"
+        },
+        {
+          "id": 8,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-8.jpg",
+          "keyword": "Alice Wonderland",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-8.jpg",
+          "rate": "4.4",
+          "price": "$8",
+          "instructor": "Alice Wonderland",
+          "language": "HTML & CSS",
+          "hours": "20 hours",
+          "views": "80k views",
+          "time": "7 days ago",
+          "title": "HTML & CSS: The Complete Guide"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "John Doe",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Wordpress & Plugin Tutor",
+      "subscriber": "100k Students",
+      "noCreatedCourses": "15 Courses",
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Long Phở",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Anh bán phở Bình Dương",
+      "subscriber": "8,765 Students",
+      "noCreatedCourses": "15 Courses",
+      "avatar": "https://scontent.xx.fbcdn.net/v/t1.15752-9/441623553_444865008257832_139213531851576689_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=r_QIu8fg3xsQ7kNvgGX17tm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGHIKvbL6iP2421fCB2ogkQyQG0XCK7DCZayGDVwcVvQA&oe=66A52F4B"
+    },
+    {
+      "id": 2,
+      "username": "Kerstin Cable",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Language Learning Coach,Writer,Online Tutor",
+      "subscriber": "14000 Students",
+      "noCreatedCourses": "  11 Courses",
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-2.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Jose Portilla",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Head of Data Science, Pierian Data Inc.",
+      "subscriber": "1000000 Students",
+      "noCreatedCourses": "   25 Courses",
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-3.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Farhat Amin",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Cookery Coach",
+      "subscriber": "1500 Students",
+      "noCreatedCourses": "   9 Courses",
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-4.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Kyle Pew",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Microsoft Certified Trainer - 380000+ Udemy Students",
+      "subscriber": "300000 Students",
+      "noCreatedCourses": "   18 Courses",
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-5.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Jaysen Batchelor",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Illustrator & Designer",
+      "subscriber": "491000 Students",
+      "noCreatedCourses": "   13 Courses",
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-7.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Quinton Batchelor",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Photographer & Instructor",
+      "subscriber": "364000 Students",
+      "noCreatedCourses": "    6 Courses",
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-8.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Eli Natoli",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Entrepreneur - Passionate Teacher",
+      "subscriber": "615000 Students",
+      "noCreatedCourses": "    12 Courses",
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-6.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Baby Trần",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Coder lord",
+      "subscriber": "615000 Students",
+      "noCreatedCourses": "    12 Courses",
+      "avatar": "https://scontent.xx.fbcdn.net/v/t1.15752-9/445374219_1141829747039998_724077834513488292_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=JgTvTxIAYUIQ7kNvgGhnTJE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFsiaPuPkpr-UnHdJNwCoT5axo3Vrnr1hc4lYHf5bAGcA&oe=66A53F8B"
+    },
+    {
+      "id": 2,
+      "username": "Trí Pu",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "Báo",
+      "subscriber": "615000 Students",
+      "noCreatedCourses": "    12 Courses",
+      "avatar": "https://scontent.xx.fbcdn.net/v/t1.15752-9/445386574_475471768284984_6699973170608020870_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=gBpI1nomGSYQ7kNvgEnsTKQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGOHlM7eKnpo7UigsPWmJtXdevjFmRBdBPpUCeYBrDlmA&oe=66A53299"
+    },
+    {
+      "id": 2,
+      "username": "Bùi",
+      "password": "password",
+      "role": "teacher",
+      "enrolledCourses": [],
+      "tutor_category": "bán sách ái kĩ nâng cao",
+      "subscriber": "615000 Students",
+      "noCreatedCourses": "    12 Courses",
+      "avatar": "https://scontent.xx.fbcdn.net/v/t1.15752-9/441927201_1571030200135226_1459971500626025619_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=5zS3By_cn1AQ7kNvgGzF0Mq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QErL7TnhLthHnKqXHEPuIovFEadgcvPPdLIfJMQ4gqqgw&oe=66A52AC3"
+    },
+    {
+      "id": 3,
+      "username": "newuser",
+      "password": "newpassword",
+      "role": "student",
+      "enrolledCourses": [
+        {
+          "id": 1,
+          "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+          "keyword": "John Doe",
+          "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-1.jpg",
+          "rate": "4.5",
+          "price": "$10",
+          "instructor": "John Doe",
+          "language": "Javascript",
+          "hours": "25 hours",
+          "views": "109k views",
+          "time": "15 days ago",
+          "title": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+        }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+      "keyword": "John Doe",
+      "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-1.jpg",
+      "rate": "4.5",
+      "price": "$10",
+      "instructor": "John Doe",
+      "language": "Javascript",
+      "hours": "25 hours",
+      "views": "109k views",
+      "time": "15 days ago",
+      "title": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+    },
+    {
+      "id": 2,
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+      "keyword": "John Doe",
+      "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-2.jpg",
+      "rate": "4.5",
+      "price": "$10",
+      "instructor": "John Doe",
+      "language": "Javascript",
+      "hours": "25 hours",
+      "views": "109k views",
+      "time": "15 days ago",
+      "title": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+    },
+    {
+      "id": 3,
+      "avatar": "https://gambolthemes.net/html-items/cursus-new-demo/images/left-imgs/img-1.jpg",
+      "keyword": "John Doe",
+      "thumbnail": "https://gambolthemes.net/html-items/cursus-new-demo/images/courses/img-3.jpg",
+      "rate": "4.5",
+      "price": "$10",
+      "instructor": "John Doe",
+      "language": "Javascript",
+      "hours": "25 hours",
+      "views": "109k views",
+      "time": "15 days ago",
+      "title": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+    }
+  ]
+}
